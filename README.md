@@ -15,6 +15,7 @@ A recurrence event is characterised by the cancer **“tumor appear again”** a
 _Local reappearance = again tumor developed in same organ_
 
 _Regional = close to the treated organ (place)_
+
 _Distant = another part of the body_
  
 
